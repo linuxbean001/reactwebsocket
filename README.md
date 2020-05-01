@@ -1,5 +1,10 @@
 # A Simple Chat App With React, Node and WebSockets
 
-Check out the blog post related to this repo here:
+#backend 
+npm install
+node app.js
 
-https://blog.bitlabstudio.com/a-simple-chat-app-with-react-node-and-websocket-35d3c9835807
+#frontend
+npm install
+npm start
+
